@@ -45,7 +45,7 @@ The current release of `bettyfixer` is optimized for Ubuntu 20.04 LTS (Focal Fos
 
 If you'd like to contribute to Betty Fixer, please follow these steps:
 
-1. Go to the github repository.
+1. Go to the [Github repository](https://github.com/Moealsir/betty_fixer)
 2. Fork the repository.
 3. Create a new branch for your feature or bug fix.
 4. Make your changes and ensure the code style follows the project conventions.
